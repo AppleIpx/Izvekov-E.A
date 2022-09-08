@@ -1,3 +1,4 @@
+# -- coding: utf-8 --
 name = input('Как вас зовут')
 age = int(input('Введите ваш возраст'))
 if 0 < age < 75:
